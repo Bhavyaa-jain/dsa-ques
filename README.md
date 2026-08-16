@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/Bhavyaa-jain/dsa-ques/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/Bhavyaa-jain/dsa-ques/tree/master/0283-move-zeroes) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Bhavyaa-jain/dsa-ques/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -23,4 +24,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Bhavyaa-jain/dsa-ques/tree/master/0075-sort-colors) |
+## Binary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Bhavyaa-jain/dsa-ques/tree/master/0852-peak-index-in-a-mountain-array) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Bhavyaa-jain/dsa-ques/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
