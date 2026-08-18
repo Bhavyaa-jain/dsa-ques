@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Bhavyaa-jain/dsa-ques/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/Bhavyaa-jain/dsa-ques/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Bhavyaa-jain/dsa-ques/tree/master/0344-reverse-string) |
+| [0567-permutation-in-string](https://github.com/Bhavyaa-jain/dsa-ques/tree/master/0567-permutation-in-string) |
 ## Sorting
 |  |
 | ------- |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/Bhavyaa-jain/dsa-ques/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Bhavyaa-jain/dsa-ques/tree/master/0344-reverse-string) |
+| [0567-permutation-in-string](https://github.com/Bhavyaa-jain/dsa-ques/tree/master/0567-permutation-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Bhavyaa-jain/dsa-ques/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Stack
 |  |
@@ -53,4 +55,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Bhavyaa-jain/dsa-ques/tree/master/1910-remove-all-occurrences-of-a-substring) |
+## Hash Table
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/Bhavyaa-jain/dsa-ques/tree/master/0567-permutation-in-string) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/Bhavyaa-jain/dsa-ques/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
