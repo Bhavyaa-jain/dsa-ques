@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0031-next-permutation](https://github.com/Bhavyaa-jain/dsa-ques/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/Bhavyaa-jain/dsa-ques/tree/master/0053-maximum-subarray) |
+| [0074-search-a-2d-matrix](https://github.com/Bhavyaa-jain/dsa-ques/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Bhavyaa-jain/dsa-ques/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Bhavyaa-jain/dsa-ques/tree/master/0088-merge-sorted-array) |
 | [0204-count-primes](https://github.com/Bhavyaa-jain/dsa-ques/tree/master/0204-count-primes) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Bhavyaa-jain/dsa-ques/tree/master/0074-search-a-2d-matrix) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Bhavyaa-jain/dsa-ques/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Ternary Search
 |  |
@@ -108,4 +110,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Bhavyaa-jain/dsa-ques/tree/master/0204-count-primes) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/Bhavyaa-jain/dsa-ques/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
