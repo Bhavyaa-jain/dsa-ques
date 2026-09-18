@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Bhavyaa-jain/dsa-ques/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/Bhavyaa-jain/dsa-ques/tree/master/0283-move-zeroes) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Bhavyaa-jain/dsa-ques/tree/master/0852-peak-index-in-a-mountain-array) |
+| [2965-find-missing-and-repeated-values](https://github.com/Bhavyaa-jain/dsa-ques/tree/master/2965-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
 | ------- |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Bhavyaa-jain/dsa-ques/tree/master/0001-two-sum) |
 | [0567-permutation-in-string](https://github.com/Bhavyaa-jain/dsa-ques/tree/master/0567-permutation-in-string) |
+| [2965-find-missing-and-repeated-values](https://github.com/Bhavyaa-jain/dsa-ques/tree/master/2965-find-missing-and-repeated-values) |
 ## Sliding Window
 |  |
 | ------- |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Bhavyaa-jain/dsa-ques/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/Bhavyaa-jain/dsa-ques/tree/master/0050-powx-n) |
 | [0204-count-primes](https://github.com/Bhavyaa-jain/dsa-ques/tree/master/0204-count-primes) |
+| [2965-find-missing-and-repeated-values](https://github.com/Bhavyaa-jain/dsa-ques/tree/master/2965-find-missing-and-repeated-values) |
 ## Recursion
 |  |
 | ------- |
@@ -123,4 +126,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Bhavyaa-jain/dsa-ques/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Bhavyaa-jain/dsa-ques/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Bhavyaa-jain/dsa-ques/tree/master/0240-search-a-2d-matrix-ii) |
+| [2965-find-missing-and-repeated-values](https://github.com/Bhavyaa-jain/dsa-ques/tree/master/2965-find-missing-and-repeated-values) |
 <!---LeetCode Topics End-->
