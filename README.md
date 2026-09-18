@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Bhavyaa-jain/dsa-ques/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/Bhavyaa-jain/dsa-ques/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/Bhavyaa-jain/dsa-ques/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Bhavyaa-jain/dsa-ques/tree/master/0054-spiral-matrix) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Bhavyaa-jain/dsa-ques/tree/master/0001-two-sum) |
 | [0567-permutation-in-string](https://github.com/Bhavyaa-jain/dsa-ques/tree/master/0567-permutation-in-string) |
 ## Sliding Window
 |  |
