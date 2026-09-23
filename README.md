@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Bhavyaa-jain/dsa-ques/tree/master/0053-maximum-subarray) |
+| [0509-fibonacci-number](https://github.com/Bhavyaa-jain/dsa-ques/tree/master/0509-fibonacci-number) |
 ## Math
 |  |
 | ------- |
@@ -106,11 +107,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Bhavyaa-jain/dsa-ques/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/Bhavyaa-jain/dsa-ques/tree/master/0050-powx-n) |
 | [0204-count-primes](https://github.com/Bhavyaa-jain/dsa-ques/tree/master/0204-count-primes) |
+| [0509-fibonacci-number](https://github.com/Bhavyaa-jain/dsa-ques/tree/master/0509-fibonacci-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/Bhavyaa-jain/dsa-ques/tree/master/2965-find-missing-and-repeated-values) |
 ## Recursion
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Bhavyaa-jain/dsa-ques/tree/master/0050-powx-n) |
+| [0509-fibonacci-number](https://github.com/Bhavyaa-jain/dsa-ques/tree/master/0509-fibonacci-number) |
 ## Enumeration
 |  |
 | ------- |
@@ -154,4 +157,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Bhavyaa-jain/dsa-ques/tree/master/0560-subarray-sum-equals-k) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Bhavyaa-jain/dsa-ques/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
