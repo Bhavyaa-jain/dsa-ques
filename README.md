@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Bhavyaa-jain/dsa-ques/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/Bhavyaa-jain/dsa-ques/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Bhavyaa-jain/dsa-ques/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0912-sort-an-array](https://github.com/Bhavyaa-jain/dsa-ques/tree/master/0912-sort-an-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/Bhavyaa-jain/dsa-ques/tree/master/2965-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/Bhavyaa-jain/dsa-ques/tree/master/0047-permutations-ii) |
 | [0075-sort-colors](https://github.com/Bhavyaa-jain/dsa-ques/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Bhavyaa-jain/dsa-ques/tree/master/0088-merge-sorted-array) |
+| [0912-sort-an-array](https://github.com/Bhavyaa-jain/dsa-ques/tree/master/0912-sort-an-array) |
 ## Quicksort
 |  |
 | ------- |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Bhavyaa-jain/dsa-ques/tree/master/0053-maximum-subarray) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Bhavyaa-jain/dsa-ques/tree/master/0240-search-a-2d-matrix-ii) |
+| [0912-sort-an-array](https://github.com/Bhavyaa-jain/dsa-ques/tree/master/0912-sort-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -201,4 +204,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Bhavyaa-jain/dsa-ques/tree/master/0037-sudoku-solver) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Bhavyaa-jain/dsa-ques/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Bhavyaa-jain/dsa-ques/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Bhavyaa-jain/dsa-ques/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Bhavyaa-jain/dsa-ques/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Bhavyaa-jain/dsa-ques/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
