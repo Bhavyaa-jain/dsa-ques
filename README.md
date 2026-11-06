@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Bhavyaa-jain/dsa-ques/tree/master/0013-roman-to-integer) |
 | [0125-valid-palindrome](https://github.com/Bhavyaa-jain/dsa-ques/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/Bhavyaa-jain/dsa-ques/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/Bhavyaa-jain/dsa-ques/tree/master/0151-reverse-words-in-a-string) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Bhavyaa-jain/dsa-ques/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/Bhavyaa-jain/dsa-ques/tree/master/0013-roman-to-integer) |
 | [0037-sudoku-solver](https://github.com/Bhavyaa-jain/dsa-ques/tree/master/0037-sudoku-solver) |
 | [0560-subarray-sum-equals-k](https://github.com/Bhavyaa-jain/dsa-ques/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Bhavyaa-jain/dsa-ques/tree/master/0567-permutation-in-string) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Bhavyaa-jain/dsa-ques/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Bhavyaa-jain/dsa-ques/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/Bhavyaa-jain/dsa-ques/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/Bhavyaa-jain/dsa-ques/tree/master/0050-powx-n) |
 | [0204-count-primes](https://github.com/Bhavyaa-jain/dsa-ques/tree/master/0204-count-primes) |
 | [0509-fibonacci-number](https://github.com/Bhavyaa-jain/dsa-ques/tree/master/0509-fibonacci-number) |
