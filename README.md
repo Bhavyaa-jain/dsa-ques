@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Bhavyaa-jain/dsa-ques/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Bhavyaa-jain/dsa-ques/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Bhavyaa-jain/dsa-ques/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/Bhavyaa-jain/dsa-ques/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/Bhavyaa-jain/dsa-ques/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/Bhavyaa-jain/dsa-ques/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Bhavyaa-jain/dsa-ques/tree/master/0287-find-the-duplicate-number) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Bhavyaa-jain/dsa-ques/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Bhavyaa-jain/dsa-ques/tree/master/0013-roman-to-integer) |
 | [0037-sudoku-solver](https://github.com/Bhavyaa-jain/dsa-ques/tree/master/0037-sudoku-solver) |
+| [0141-linked-list-cycle](https://github.com/Bhavyaa-jain/dsa-ques/tree/master/0141-linked-list-cycle) |
 | [0560-subarray-sum-equals-k](https://github.com/Bhavyaa-jain/dsa-ques/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Bhavyaa-jain/dsa-ques/tree/master/0567-permutation-in-string) |
 | [2965-find-missing-and-repeated-values](https://github.com/Bhavyaa-jain/dsa-ques/tree/master/2965-find-missing-and-repeated-values) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/Bhavyaa-jain/dsa-ques/tree/master/0141-linked-list-cycle) |
 | [0287-find-the-duplicate-number](https://github.com/Bhavyaa-jain/dsa-ques/tree/master/0287-find-the-duplicate-number) |
 ## Prefix Sum
 |  |
@@ -244,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0092-reverse-linked-list-ii](https://github.com/Bhavyaa-jain/dsa-ques/tree/master/0092-reverse-linked-list-ii) |
+| [0141-linked-list-cycle](https://github.com/Bhavyaa-jain/dsa-ques/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/Bhavyaa-jain/dsa-ques/tree/master/0206-reverse-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Bhavyaa-jain/dsa-ques/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 <!---LeetCode Topics End-->
