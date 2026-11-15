@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Bhavyaa-jain/dsa-ques/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Bhavyaa-jain/dsa-ques/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0912-sort-an-array](https://github.com/Bhavyaa-jain/dsa-ques/tree/master/0912-sort-an-array) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Bhavyaa-jain/dsa-ques/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2596-check-knight-tour-configuration](https://github.com/Bhavyaa-jain/dsa-ques/tree/master/2596-check-knight-tour-configuration) |
 | [2965-find-missing-and-repeated-values](https://github.com/Bhavyaa-jain/dsa-ques/tree/master/2965-find-missing-and-repeated-values) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Bhavyaa-jain/dsa-ques/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Bhavyaa-jain/dsa-ques/tree/master/0053-maximum-subarray) |
 | [0131-palindrome-partitioning](https://github.com/Bhavyaa-jain/dsa-ques/tree/master/0131-palindrome-partitioning) |
 | [0509-fibonacci-number](https://github.com/Bhavyaa-jain/dsa-ques/tree/master/0509-fibonacci-number) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Bhavyaa-jain/dsa-ques/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Math
 |  |
 | ------- |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Bhavyaa-jain/dsa-ques/tree/master/0050-powx-n) |
 | [0204-count-primes](https://github.com/Bhavyaa-jain/dsa-ques/tree/master/0204-count-primes) |
 | [0509-fibonacci-number](https://github.com/Bhavyaa-jain/dsa-ques/tree/master/0509-fibonacci-number) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Bhavyaa-jain/dsa-ques/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2965-find-missing-and-repeated-values](https://github.com/Bhavyaa-jain/dsa-ques/tree/master/2965-find-missing-and-repeated-values) |
 ## Recursion
 |  |
@@ -198,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Bhavyaa-jain/dsa-ques/tree/master/0560-subarray-sum-equals-k) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Bhavyaa-jain/dsa-ques/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Bhavyaa-jain/dsa-ques/tree/master/3364-minimum-positive-sum-subarray) |
 ## Memoization
 |  |
